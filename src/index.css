@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Fredoka', sans-serif;
+  background-color: #fce7f3;
+  color: #4c1d95;
+  overflow-x: hidden;
+}
+
+h1, h2, h3 {
+  color: #831843;
+}
+
+button {
+  font-family: 'Fredoka', sans-serif;
+  cursor: pointer;
+  border: none;
+  outline: none;
+}
